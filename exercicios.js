@@ -119,8 +119,8 @@ let nome
 let idade
 console.log (typeof nome)
 console.log (typeof idade)
-//Foi impresso desse jeito, pois nao tem valor.
-//Que nao tem valor.
+//Foi impresso undefined, pois nao tem valor.
+//Eu notei que nao tem valor.
 let nome2 = "Luisa"
 let sobrenome = "Bueno"
 let idade2 = 15
