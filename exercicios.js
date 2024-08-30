@@ -71,7 +71,7 @@ d = "World"
 
 console.log(d, e)
 
-//imprime no terminal Hello World.
+//imprime no terminal os valores das variaveis, que fica World Hello.
 
 /*
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
