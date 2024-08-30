@@ -38,8 +38,8 @@ console.log(y)
 y = 5
 console.log(x, y)
 
-/*imprime no terminal 10
-                      10 5
+//imprime no terminal o valor de y, que atualmente eh 10.
+//mudou o valor de y para 5.
 
 //2. Analise o programa abaixo e diga o que será impresso no console, SEM EXECUTAR o programa.
 
@@ -61,7 +61,7 @@ let o = n.toString()
 
 console.log(typeof m, typeof n, typeof o)
 
-//vai mostrar no terminal os tipos das variaveis.
+//vai imprimir no terminal os tipos das variaveis.
 
 //4. Analise o programa abaixo e diga o que será impresso no console, SEM EXECUTAR o programa.
 
