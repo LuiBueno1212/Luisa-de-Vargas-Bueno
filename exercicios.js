@@ -158,12 +158,6 @@ independente de qual valor essas variáveis assumam inicialmente
 a lógica do seu programa teria que mudar também).
 */
 
-console.log (var1)
-var1 = 25
-
-console.log (var2)
-var2 = 10
-
 
 /*
 █████████████████████████████████████████████████████████████████████████████████████████████████████████
